@@ -1,0 +1,9 @@
+export const Fire = 'lightcoral';
+export const Grass = 'greenyellow';
+export const Flying = 'lightskyblue';
+export const Water = 'lightblue';
+export const Normal = 'lightgoldenrodyellow';
+export const Dragon = 'darkred';
+export const Dark = 'darkslategray';
+export const Bug = 'lightgreen';
+export const Poison = 'purple';

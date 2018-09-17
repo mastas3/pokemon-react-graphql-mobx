@@ -1,0 +1,25 @@
+.pokemon-list {
+    padding: 20px;
+    display: grid;
+    grid-template-columns: 25% 25% 25% 25%;
+}
+
+.pokemon-list-container {
+    padding: 50px;
+}
+
+@media only screen and (min-width: 300px) and (max-width: 900px) {
+    .pokemon-list {
+        padding: 20px;
+        display: grid;
+        grid-template-columns: 45% 45%;
+    }    
+}
+
+@media only screen and (max-width: 320px) {
+    .pokemon-list {
+        padding: 20px;
+        display: grid;
+        grid-template-columns: 50%;
+    }    
+}

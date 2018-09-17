@@ -1,0 +1,39 @@
+.pokemon-item {
+    flex-direction: column;
+    display: flex;
+    justify-self: center;
+    margin-top: 10px;
+    border-radius: 5px;
+    padding: 20px;
+}
+
+/* .pokemon-item:hover {
+    background-color: #fff;
+    transition: background-color 0.8s ease-in;
+    cursor: pointer;
+} */
+
+/* .pokemon-item img {
+    width: 200px;
+    height:200px;
+}
+
+.pokemon-name {
+    width: 100%;
+    text-align: center;
+    color: #333;
+    background-color: #fff;
+}
+
+.pokemon-number {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 20px;
+    transform: rotate(25deg);
+    background-color: red;
+    color: white;
+    border-radius: 50%;
+    padding: 10px;
+    display: flex;
+    align-self: start;
+    border: 1px solid #333;
+} */
